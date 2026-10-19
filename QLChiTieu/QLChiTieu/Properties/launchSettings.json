@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "QLChiTieu": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

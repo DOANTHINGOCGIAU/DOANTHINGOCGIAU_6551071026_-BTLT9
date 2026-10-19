@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Log của ứng dụng
+Logs/
+
+# File cấu hình chứa mật khẩu / thông tin riêng từng máy
+appsettings.Development.json
+appsettings.Local.json

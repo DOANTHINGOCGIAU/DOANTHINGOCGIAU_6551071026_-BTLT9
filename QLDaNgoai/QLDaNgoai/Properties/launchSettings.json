@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "QLDaNgoai": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
